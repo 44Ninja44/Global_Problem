@@ -1,8 +1,5 @@
 # Global_Problem(English)
-## New project from Kodland.Made to reduce global warming.
-## This project is created to people know about global warning. 
-## Kodland is organization which is helping me to create this project. 
-## Project will not be to big ,but I think it will be enought for a first impression of this problem and an understanding of its importance.
+New project from Kodland.Made to reduce global warming.This project is created to people know about global warning.Kodland is organization which is helping me to create this project.Project will not be to big ,but I think it will be enought for a first impression of this problem and an understanding of its importance.
 
 
 ### My idea about how to create my project:
