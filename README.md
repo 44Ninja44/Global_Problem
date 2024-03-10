@@ -8,7 +8,7 @@ New project from Kodland.Made to reduce global warming.This project is created t
 
 2.Tell the user about the GP and what the temperature will be and how the world will change in n years
 
-## Questions that I could answer:
+### Questions that I could answer:
 
 1. What is global warming?
 
@@ -43,7 +43,7 @@ https://rg.ru/2023/11/07/kak-prostoj-chelovek-mozhet-povliiat-na-globalnoe-potep
 
 2.Рассказать пользователю о ГП и о том, какая будет температура и как изменится мир через n лет.
 
-## Вопросы на которые я бы мог ответить:
+### Вопросы на которые я бы мог ответить:
 
 1. Что такое глобальное потепление?
 
