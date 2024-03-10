@@ -8,6 +8,16 @@ New project from Kodland.Made to reduce global warming.This project is created t
 
 2.Tell the user about the GP and what the temperature will be and how the world will change in n years
 
+## Questions that I could answer:
+
+1. What is global warming?
+
+2. How serious is this problem, and does it concern us?
+
+3. What causes global warming?
+
+4. How can we curb global warming?
+
 ### From where could I take information?
 
 https://www.youtube.com/watch?v=wcVy-0IBpg4
@@ -32,6 +42,17 @@ https://rg.ru/2023/11/07/kak-prostoj-chelovek-mozhet-povliiat-na-globalnoe-potep
 1.Проверить знания пользователя о ВОП в формате вопрос-ответ (викторина/тест).
 
 2.Рассказать пользователю о ГП и о том, какая будет температура и как изменится мир через n лет.
+
+## Вопросы на которые я бы мог ответить:
+
+1. Что такое глобальное потепление?
+
+2. Насколько эта проблема серьезна, и касается ли она нас?
+
+3. Что провоцирует глобальное потепление?
+
+4. Как мы можем сдерживать глобальное потепление?
+
 
 ### Откуда я мог взять информацию?
 
