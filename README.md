@@ -1,5 +1,8 @@
 # Global_Problem(English)
-## New project from Kodland.Made to reduce global warming.This project is created to people know about global warning. Kodland is organization which is helping me to create this project. Project will not be to big ,but I think it will be enought.
+## New project from Kodland.Made to reduce global warming.
+## This project is created to people know about global warning. 
+## Kodland is organization which is helping me to create this project. 
+## Project will not be to big ,but I think it will be enought for a first impression of this problem and an understanding of its importance.
 
 
 ### My idea about how to create my project:
@@ -24,7 +27,10 @@ https://rg.ru/2023/11/07/kak-prostoj-chelovek-mozhet-povliiat-na-globalnoe-potep
 
 
 # Глобальная_Проблема(Русский)
-## Новый проект от Кодланда. Создан для уменьшения глобального потепления. Этот проект создан для того, чтобы люди знали о глобальном потеплении. Кодланд — это организация, которая помогает мне создать этот проект. Проект не будет слишком большим, но я думаю, этого будет достаточно.
+## Новый проект от Кодланда. Создан для уменьшения глобального потепления.
+## Этот проект создан для того, чтобы люди знали о глобальном потеплении. 
+## Кодланд — это организация, которая помогает мне создать этот проект.
+## Проект не будет слишком большим, но я думаю, этого будет достаточно для первого впечатления об этой проблеме и понимания её важности.
 
 
 ### Моя идея о том, как создать свой проект:
